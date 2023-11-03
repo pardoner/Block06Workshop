@@ -1,8 +1,13 @@
-h1 {color: rgb(7, 85, 107)}
+h1 {color: rgb(37, 25, 130)}
 body {background-color: orange;
-text-align: start;}
-section {color: cyan;
+}
+section {color: rgb(7, 56, 69);
 background-color: limegreen;
 }
-img {padding-left: 25%;
+img {padding-left: 40%;
 padding-right: 25%}
+h1, h2, h3 {text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+ol, ul {padding-left: 40%;
+padding-bottom: 5%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
